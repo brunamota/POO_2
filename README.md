@@ -16,11 +16,11 @@ Quinta - 15h30 às 17h10 - LEC 03
 
 ![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega da Trabalho 1 (Lista 1 + Kahoot)
 
-![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 2 - 20/06/2024
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 2
 
-![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 3 - 11/07/2024
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 3
 
-![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 4 - 18/07/2024
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 4
 
 ## Ferramentas utilizada na matéria
 

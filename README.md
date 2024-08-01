@@ -38,9 +38,9 @@ Quinta - 15h30 às 17h10 - LEC 03
 
 ![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Plano de Ensino
 
-![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Aulas
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) [Aulas](https://github.com/brunamota/POO_2/blob/main/Aulas.md)
 
-![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Trabalhos
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) [Trabalhos](https://github.com/brunamota/POO_2/blob/main/Trabalhos.md)
 
 ![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) [Material de Apoio](https://github.com/brunamota/POO/files/15018020/Conteudo_POO.pdf)
 

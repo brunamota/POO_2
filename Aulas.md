@@ -20,7 +20,7 @@
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f)Aula 10 - Interfaces Gráficas de gerenciamento de dados
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 11 - I nterfaces Gráficas de gerenciamento de dados
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 11 - Interfaces Gráficas de gerenciamento de dados
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 12 - Interfaces Gráficas de gerenciamento de dados
 

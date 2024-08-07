@@ -6,7 +6,7 @@
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 1 - Histórico, tecnologias, Características da Orientação a Objetos, Uso de ambientes integrados de desenvolvimento (IDE), Tipos de dados, estruturas de controle](https://github.com/brunamota/POO/files/15018180/Aula.1.-.Introducao.pdf)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 2 - Introdução à Orientação à Objetos – Conceitos Gerais (Abstração, Classes, Objetos, Encapsulamento, Polimorfismo e Herança)](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula02.md)
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 2 - Introdução à Orientação à Objetos – Conceitos Gerais](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula02.md)
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 3 - Estrutura de Classes e Instanciação de Objetos
 

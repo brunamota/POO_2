@@ -34,7 +34,7 @@ Então, temos que cada cachorro:
 - Cachorro 2:
   - Nome: Jeremias
   - Raça: Golden
-  - Sono: sim
+  - Sono: não
   - Alimentação: come 3 vezes no dia
   - Exercíco: passeia 2 vezes no dia
 

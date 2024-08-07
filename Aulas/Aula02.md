@@ -85,14 +85,12 @@ public class Cachorro {
         return sono;
     }
     
-    public int comer(int alimentacao){
-        this.alimentacao = this.alimentacao - alimentacao;
-        return this.alimentacao;
+        public void comer(){
+        this.alimentacao -= 1;
     }
     
-    public int passear(int exercicio){
-        this.exercicio = this.exercicio - exercicio;
-        return this.exercicio;
+    public void passear(int exercicio){
+        this.exercicio -=1;
     }
 
     //Assinatura do Objeto

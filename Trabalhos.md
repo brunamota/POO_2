@@ -4,7 +4,7 @@
 
 </div>
 
-![iconGitJoia](https://github.com/user-attachments/assets/5d26f355-6c6f-4da4-a9b0-260d5f507404) Trabalho 1
+![iconGitJoia](https://github.com/user-attachments/assets/5d26f355-6c6f-4da4-a9b0-260d5f507404) [Trabalho 1](https://github.com/user-attachments/files/16532380/Trabalho.01.-.2024.2.pdf)
 
 ![iconGitJoia](https://github.com/user-attachments/assets/5d26f355-6c6f-4da4-a9b0-260d5f507404) Trabalho 2
 

@@ -53,6 +53,7 @@ Passando isso para a Orientação Objeto:
     
 Passando isso para o java:
 
+Classe Cachorro
 ```Java
 package cachorro;
 
@@ -108,7 +109,7 @@ public class Cachorro {
 }
 
 ```
-
+Classe Principal
 ```Java
 package cachorro;
 

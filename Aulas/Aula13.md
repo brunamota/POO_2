@@ -1,4 +1,4 @@
-# Aula 13 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de animações
+# Aula 14 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de animações
 
 ![Captura de tela 2024-06-30 192027](https://github.com/brunamota/POO/assets/66503956/ceae45a5-d07c-4db4-a1d5-16ea575762ec)
 

@@ -29,12 +29,23 @@ Então, temos que cada cachorro:
   - Raça: Pug
   - Sono: não
   - Alimentação: come 2 vezes no dia
-  - Exercíco: passea
+  - Exercíco: passeia 1 vez no dia
 - Cachorro 2:
   - Nome: Jeremias
   - Raça: Golden
   - Sono: sim
   - Alimentação: come 3 vezes no dia
+  - Exercíco: passeia 2 vezes no dia
 
-Passando isso para a 
-
+Passando isso para a Orientação Objeto:
+  - Classe: Cachorro
+  - Atributos:
+    - Nome
+    - Raça
+    - Sono
+    - Alimentação
+    - Exercício
+  - Métodos:
+    - Comer
+    - Dormir
+    - Passear

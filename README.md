@@ -39,7 +39,8 @@ Quinta - 15h30 às 17h10 - LEC 03
 
 ## Documentos da Disciplina
 
-![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Plano de Ensino
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) [Plano de Ensino](https://github.com/user-attachments/files/16532424/Plano.de.Ensino.POO.-.02_2024.pdf)
+
 
 ![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) [Aulas](https://github.com/brunamota/POO_2/blob/main/Aulas.md)
 

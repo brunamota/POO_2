@@ -20,18 +20,19 @@
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 8 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f)Aula 9 - Interfaces Gráficas de gerenciamento de dados
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 9 - Interfaces Gráficas de gerenciamento de dados](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula09.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 10 - Interfaces Gráficas de gerenciamento de dados
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 10 - Interfaces Gráficas de gerenciamento de dados](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula10.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 11 - Interfaces Gráficas de gerenciamento de dados
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 11 - Interfaces Gráficas de gerenciamento de dados](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula11.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 12 - Interfaces Gráficas de gerenciamento de dados
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 12 - Interfaces Gráficas de gerenciamento de dados](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula12.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 13 - Relação entre objetos e classes - Modulos Exemplo: uso do pacote gráfico Graphics na criação de gráficos
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 13 - Relação entre objetos e classes - Modulos Exemplo: uso do pacote gráfico Graphics na criação de gráficos](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula13.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 14 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de animações
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 14 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de animações](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula14.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 15 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de jogos
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 15 - Relação entre objetos e classes – Threads Exemplo: uso do pacote gráfico Graphics na criação de jogos](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula15.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 16 - Padrões de Projeto
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 16 - Padrões de Projeto](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula16.md)
+

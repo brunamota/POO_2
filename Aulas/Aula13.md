@@ -1,4 +1,4 @@
-# Aula 12 - Relação entre objetos e classes - Modulos Exemplo: uso do pacote gráfico Graphics na criação de gráficos
+# Aula 13 - Relação entre objetos e classes - Modulos Exemplo: uso do pacote gráfico Graphics na criação de gráficos
 
 Aplicação desenvolvida em sala para conhecer a classe Graphics e conseguir desenhar na tela.
 

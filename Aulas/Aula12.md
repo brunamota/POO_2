@@ -1,4 +1,4 @@
-# Aula 13 - Interfaces Gráficas de gerenciamento de dados
+# Aula 12 - Interfaces Gráficas de gerenciamento de dados
 
 Model-View-Controller é um padrão em design de software comumente usado para implementar interfaces de usuário, dados e lógica de controle. Ele enfatiza a separação entre a lógica de negócios e a exibição do software. Esta “separação de preocupações” proporciona uma melhor divisão do trabalho e uma melhor manutenção.
 

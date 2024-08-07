@@ -49,3 +49,60 @@ Passando isso para a Orientação Objeto:
     - Comer
     - Dormir
     - Passear
+Passando isso para o java:
+
+```Java
+package cachorro;
+
+public class Cachorro {
+    //atributos
+    String nome;
+    String raca;
+    Boolean sono;
+    int alimentacao;
+    int exercicio;
+    
+    //Contrutor nulo
+    Cachorro(){
+        
+    }
+    
+    //Construtor com parâmetros
+    Cachorro(String nome, String raca, Boolean sono, int alimentacao, int exercicio){
+        this.nome = nome;
+        this.raca = raca;
+        this.sono = sono;
+        this.alimentacao = alimentacao;
+        this.exercicio = exercicio;
+    }
+    
+    //Metodos
+    public Boolean dormir(){
+        sono = true;
+        return sono;
+    }
+    
+    public int comer(int alimentacao){
+        this.alimentacao = this.alimentacao - alimentacao;
+        return this.alimentacao;
+    }
+    
+    public int passear(int exercicio){
+        this.exercicio = this.exercicio - exercicio;
+        return this.exercicio;
+    }
+
+    //Assinatura do Objeto
+    @Override
+    public String toString() {
+        return "Cachorro:" + 
+                "\nNome = " + nome +
+                "\nRaca = " + raca +
+                "\nSono = " + sono +
+                "\nAlimentacao = " + alimentacao +
+                "\nExercicio = " + exercicio;
+    }
+    
+}
+
+```

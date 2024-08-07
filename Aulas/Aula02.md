@@ -2,7 +2,7 @@
 
 ### Abstração
 
-![cachorros](https://github.com/user-attachments/assets/92ddc07c-c2d3-4d15-97fc-4b6ca9f9afbe)
+![cachorros](https://github.com/user-attachments/assets/79f1bf70-c3c0-4f86-bfa7-8cc66632aa7c)
 
 O que Tobias e Jeremias são?
 

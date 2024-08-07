@@ -49,6 +49,7 @@ Passando isso para a Orientação Objeto:
     - Comer
     - Dormir
     - Passear
+    - 
 Passando isso para o java:
 
 ```Java
@@ -105,4 +106,29 @@ public class Cachorro {
     
 }
 
+```
+
+```Java
+package cachorro;
+
+public class Principal {
+        public static void main(String[] args) {
+           
+           //Instanciar um objeto
+           Cachorro cachorro1 = new Cachorro("Tobias", "Pug", false, 2, 1);
+           Cachorro cachorro2 = new Cachorro("Jeremias", "Golden", false, 3, 2);
+      
+           System.out.println(cachorro1);
+           System.out.println(cachorro2);
+           
+           //chamar métodos
+           cachorro1.passear(1);
+           cachorro1.dormir();
+           cachorro2.comer(1);
+           
+           System.out.println(cachorro1);
+           System.out.println(cachorro2);
+    }
+   
+ }
 ```

@@ -123,9 +123,12 @@ public class Principal {
            System.out.println(cachorro1);
            System.out.println(cachorro2);
            
-           //chamar métodos
+           //usar métodos para cada objeto
+           //Levar o Tobias para passear 1 vez
            cachorro1.passear(1);
+           //Tobias agora está dormindo
            cachorro1.dormir();
+           //Jeremias comeu 1 vez
            cachorro2.comer(1);
            
            System.out.println(cachorro1);

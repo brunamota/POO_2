@@ -15,15 +15,21 @@ Quinta - 15h30 às 17h10 - LEC 03
 
 ## Datas Importantes
 
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Vem para a UFJ - 26/09/2024
+
 ![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Não haverá aula - 03/10/2024
 
 ![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega da Trabalho 1 (Lista 1 + Kahoot) - 10/10/2024
 
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) CONEPE - 14/10/2024 até 17/10/2024
+
 ![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 2 - 07/11/2024
 
-![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 3 - 28/11/2024
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Semana da Computação - 25/11 a 29/11
 
-![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 4 - 05/12/2024
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 3 - 05/12/2024
+
+![iconGitZelda](https://github.com/user-attachments/assets/208a8e50-c296-47e1-9683-9082381461e3) Entrega Trabalho 4 - 12/12/2024
 
 ## Ferramentas utilizada na matéria
 

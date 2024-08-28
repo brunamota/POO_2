@@ -1,6 +1,6 @@
 # Aula 4 - Modificadores de acesso, métodos e atributos estáticos
 
-## Modificadores de acessos
+## 🔄 Modificadores de acessos
 
 Os modificadores de acesso são palavras-chave que definem o nível de acesso aos membros (atributos e métodos) de uma classe.
 
@@ -14,7 +14,7 @@ Os modificadores de acesso são palavras-chave que definem o nível de acesso ao
     - Atributo estático: É compartilhado por todas as instâncias da classe. Pode ser acessado usando o nome da classe, seguido pelo nome do atributo.
     - Método estático: Não requer uma instância da classe para ser invocado. Pode ser acessado usando o nome da classe, seguido pelo nome do método.
    
-## Exemplo feito em sala
+## 💻 Exemplo feito em sala
 
 ```Java
   

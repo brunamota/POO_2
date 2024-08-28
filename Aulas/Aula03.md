@@ -1,4 +1,4 @@
-# Aula 3 - Estrutura de Classes e Instanciação de Objetos - Encapsulamento, Construtor, Get, Set
+# Aula 3 - Estrutura de Classes e Instanciação de Objetos - Encapsulamento, Construtor, Getter, Setter
 
 ## 💊 Encapsulamento
 

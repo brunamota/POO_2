@@ -14,6 +14,14 @@ Isso ajuda a proteger o estado interno do objeto e a controlar o acesso a ele.
   - protected: A propriedade ou método é acessível dentro da classe e em subclasses.
   - public: A propriedade ou método é acessível de qualquer lugar.
  
+```Java
+//Exemplo de atributos utilizando diferentes tipos de encapsulamento.
+//atributos - características
+    public String nome; //é acessível de qualquer lugar.
+    private String CPF; //acessível apenas dentro da própria classe
+    private int idade; //acessível apenas dentro da própria classe
+```
+ 
 ## 🔨 Construtor
 
 É um método especial de uma classe que é chamado automaticamente quando um objeto daquela classe é criado. O principal objetivo do construtor é inicializar/instanciar os atributos do objeto, garantindo que ele comece sua vida em um estado válido.

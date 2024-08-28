@@ -7,6 +7,12 @@ Isso ajuda a proteger o estado interno do objeto e a controlar o acesso a ele.
 
 - Consiste em restringir o acesso direto a alguns dos componentes de um objeto. Isso é feito por meio da definição de modificadores de acesso (como private, protected, e public) e o uso de métodos públicos (getters e setters) para manipular os dados internos da classe.
 
+- É uma prática essencial na programação orientada a objetos, pois:
+  - Ajuda a proteger o estado interno do objeto, evitando alterações indesejadas.
+  - Facilita a manutenção do código, pois alterações internas não afetam o código que usa a classe, desde que a interface (métodos públicos) permaneça a mesma.
+  - Promove um design mais limpo e modular, tornando o código mais legível e compreensível.
+
+
 ### 🔐 Características dos atributos utilizando encapsulamento
 
 - Modificadores de Acesso:
@@ -149,11 +155,3 @@ public class Pessoa {
 }
 
 ```
-
-### 📌 Conclusão
-
-Encapsulamento é uma prática essencial na programação orientada a objetos, pois:
-
-- Ajuda a proteger o estado interno do objeto, evitando alterações indesejadas.
-- Facilita a manutenção do código, pois alterações internas não afetam o código que usa a classe, desde que a interface (métodos públicos) permaneça a mesma.
-- Promove um design mais limpo e modular, tornando o código mais legível e compreensível.

@@ -7,7 +7,7 @@ Isso ajuda a proteger o estado interno do objeto e a controlar o acesso a ele.
 
 - Consiste em restringir o acesso direto a alguns dos componentes de um objeto. Isso é feito por meio da definição de modificadores de acesso (como private, protected, e public) e o uso de métodos públicos (getters e setters) para manipular os dados internos da classe.
 
-#### 🔏 Características dos atributos
+#### 🔏 Características dos atributos utilizando encapsulamento
 
 - Modificadores de Acesso:
   - private: A propriedade ou método é acessível apenas dentro da própria classe.
@@ -17,7 +17,8 @@ Isso ajuda a proteger o estado interno do objeto e a controlar o acesso a ele.
 ### 🔨 Construtor
 
 É um método especial de uma classe que é chamado automaticamente quando um objeto daquela classe é criado. O principal objetivo do construtor é inicializar/instanciar os atributos do objeto, garantindo que ele comece sua vida em um estado válido.
-- Características dos Construtores
+
+#### 🧰 Características dos Construtores
   - Nome: O construtor deve ter o mesmo nome da classe.
   - Sem Tipo de Retorno: O construtor não possui um tipo de retorno, nem mesmo void.
   - Sobrecarga: É possível ter múltiplos construtores (sobrecarga), permitindo diferentes maneiras de inicializar um objeto.
@@ -32,11 +33,11 @@ public Pessoa(String nome, String CPF, int idade) {
     }
 ```
 
-- Construtor Vazio:
+#### 🪹 Construtor Vazio:
   - Não recebe parâmetros.
   - Inicializa atributos com valores padrão.
   - Útil quando você deseja criar um objeto e configurar seus atributos mais tarde.
-- Construtor com Atributos:
+#### 🪺 Construtor com Atributos:
   - Recebe parâmetros que são usados para inicializar os atributos do objeto.
   - Permite a criação de objetos com valores específicos desde o início.
   - Ideal para garantir que um objeto comece em um estado válido.

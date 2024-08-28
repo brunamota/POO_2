@@ -168,3 +168,31 @@ public class Pessoa {
     } 
 }
 ```
+- Classe Principal
+```Java
+
+package pessoa;
+
+public class Principal {
+
+    public static void main(String[] args) {
+        // instaciar um objeto
+        Pessoa pessoa1 = new Pessoa("João", "000.000.000-00", 20);
+        Pessoa pessoa2 = new Pessoa("Alfredo", "111.111.111-11", 24);
+        
+        System.out.println(pessoa1.nome);
+        
+        pessoa1.nome = "Pedro"; 
+        System.out.println(pessoa1.getNome());
+        
+        System.out.println(pessoa1.getCPF());
+        
+        pessoa1.setCPF("222.222.222-22");
+        System.out.println(pessoa1.getCPF());
+        
+        System.out.println(pessoa1);
+    }
+    
+}
+
+```

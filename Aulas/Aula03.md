@@ -10,9 +10,9 @@ Isso ajuda a proteger o estado interno do objeto e a controlar o acesso a ele.
 ### 🔐 Características dos atributos utilizando encapsulamento
 
 - Modificadores de Acesso:
-  - private: A propriedade ou método é acessível apenas dentro da própria classe.
-  - protected: A propriedade ou método é acessível dentro da classe e em subclasses.
-  - public: A propriedade ou método é acessível de qualquer lugar.
+  - **private:** A propriedade ou método é acessível apenas dentro da própria classe.
+  - **protected:** A propriedade ou método é acessível dentro da classe e em subclasses.
+  - **public:** A propriedade ou método é acessível de qualquer lugar.
  
 ```Java
 //Exemplo de atributos utilizando diferentes tipos de encapsulamento.
@@ -27,9 +27,9 @@ Isso ajuda a proteger o estado interno do objeto e a controlar o acesso a ele.
 É um método especial de uma classe que é chamado automaticamente quando um objeto daquela classe é criado. O principal objetivo do construtor é inicializar/instanciar os atributos do objeto, garantindo que ele comece sua vida em um estado válido.
 
 ### 🧰 Características dos Construtores:
-  - Nome: O construtor deve ter o mesmo nome da classe.
-  - Sem Tipo de Retorno: O construtor não possui um tipo de retorno, nem mesmo void.
-  - Sobrecarga: É possível ter múltiplos construtores (sobrecarga), permitindo diferentes maneiras de inicializar um objeto.
+  - **Nome:** O construtor deve ter o mesmo nome da classe.
+  - **Sem Tipo de Retorno:** O construtor não possui um tipo de retorno, nem mesmo void.
+  - **Sobrecarga:** É possível ter múltiplos construtores (sobrecarga), permitindo diferentes maneiras de inicializar um objeto.
 
 ```Java
 //Exemplo de um Construtor da classe Pessoa
@@ -62,9 +62,9 @@ Ambos os tipos de construtores são importantes no design de classes:
 São métodos que permitem acessar e modificar os atributos de uma classe de maneira controlada. Eles são uma parte essencial do encapsulamento, ajudando a proteger os dados internos de uma classe.
 
 ### Características dos GEtters e Setters:
-- Controle de Acesso: Permitem que você controle como os atributos são acessados e modificados.
-- Validação: Os setters podem incluir lógica para validar os dados antes de atribuí-los a um atributo.
-- Encapsulamento: Mantêm a integridade dos dados, permitindo que a implementação interna da classe mude sem afetar o código que usa a classe.
+- **Controle de Acesso:** Permitem que você controle como os atributos são acessados e modificados.
+- **Validação:** Os setters podem incluir lógica para validar os dados antes de atribuí-los a um atributo.
+- **Encapsulamento:** Mantêm a integridade dos dados, permitindo que a implementação interna da classe mude sem afetar o código que usa a classe.
 
 ### 📂 Getters:
 Métodos que retornam o valor de um atributo privado.

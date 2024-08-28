@@ -32,7 +32,7 @@
 ### 🧰 Características dos Construtores:
   - **Nome:** O construtor deve ter o mesmo nome da classe.
   - **Sem Tipo de Retorno:** O construtor não possui um tipo de retorno, nem mesmo void.
-  - **Sobrecarga:** É possível ter múltiplos construtores (sobrecarga), permitindo diferentes maneiras de inicializar um objeto.
+  - **Sobrecarga:** É possível ter múltiplos construtores (sobrecarga), permitindo diferentes maneiras de inicializar um objeto ou que os desenvolvedores escolham como desejam criar os objetos.
 
 ```Java
 //Exemplo de um Construtor da classe Pessoa
@@ -47,18 +47,12 @@ public Pessoa(String nome, String CPF, int idade) {
 ### 🪹 Construtor Vazio:
   - Não recebe parâmetros.
   - Inicializa atributos com valores padrão.
+  - Oferece flexibilidade para criar objetos sem inicialização imediata
   - Útil quando você deseja criar um objeto e configurar seus atributos mais tarde.
 ### 🪺 Construtor com Atributos:
   - Recebe parâmetros que são usados para inicializar os atributos do objeto.
   - Permite a criação de objetos com valores específicos desde o início.
   - Ideal para garantir que um objeto comece em um estado válido.
-    
-### 📌 Conclusão:
-
-Ambos os tipos de construtores são importantes no design de classes:
-
-- O construtor vazio oferece flexibilidade para criar objetos sem inicialização imediata, enquanto o construtor com atributos fornece uma maneira de garantir que os objetos sejam criados com valores significativos.
-- Você pode ter ambos os tipos de construtores em uma classe, permitindo que os desenvolvedores escolham como desejam criar os objetos.
   
 ## 🔓 Getters e Setters:
 

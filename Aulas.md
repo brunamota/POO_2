@@ -9,15 +9,15 @@
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 2 - Introdução à Orientação à Objetos – Abstração](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula02.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 3 - Estrutura de Classes e Instanciação de Objetos - Construtor, Get, Set e toString
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 3 - Estrutura de Classes e Instanciação de Objetos - Construtor, Get, Set e toString](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula03.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 4 - Estrutura de Classes e Instanciação de Objetos
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 4 - Modificadores de acesso, métodos e atributos estáticos](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula04.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 5 - Herança: Generalização e Especialização
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 5 - Estrutura de Classes e Instanciação de Objetos - Herança e Polimorfismo](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula05.md)
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 6 - Herança: Generalização e Especialização
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 7 - Modificadores de acesso, métodos e atributos estáticos
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 7 - Herança: Generalização e Especialização
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 8 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos
 

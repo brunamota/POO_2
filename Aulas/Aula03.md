@@ -108,6 +108,11 @@ public String getNome() {
 - **Facilita a Depuração:** Ao imprimir objetos, você pode obter informações úteis sobre seus atributos e estado.
 
 ```Java
+    //Exemplo do toString() para a classe Pessoa
+    @Override
+    public String toString() {
+        return "Pessoa{" + "nome = " + nome + ", CPF = " + CPF + ", idade = " + idade + '}';
+    } 
 ```
 
 ## 💻 Exemplo feito em sala:

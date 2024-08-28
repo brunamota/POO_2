@@ -107,7 +107,10 @@ public String getNome() {
 - **Personalização:** Você pode sobrescrever o método para personalizar a saída de acordo com os atributos do objeto.
 - **Facilita a Depuração:** Ao imprimir objetos, você pode obter informações úteis sobre seus atributos e estado.
 
-#### 💻 Exemplo feito em sala:
+```Java
+```
+
+## 💻 Exemplo feito em sala:
 - Classe Pessoa
 ```Java
 
@@ -152,6 +155,11 @@ public class Pessoa {
     public void setIdade(int idade) {
         this.idade = idade;
     }
-}
 
+    //Assinatura da classe utilizadno o método toString()
+    @Override
+    public String toString() {
+        return "Pessoa{" + "nome = " + nome + ", CPF = " + CPF + ", idade = " + idade + '}';
+    } 
+}
 ```

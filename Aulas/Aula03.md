@@ -98,6 +98,15 @@ public String getNome() {
     }
 ```
 
+## ✍️ toString()
+
+É um método que pertence à classe Object em Java (e em muitas outras linguagens orientadas a objetos). Esse método é usado para retornar uma representação em forma de string de um objeto. Quando você imprime um objeto ou o converte em uma string, o método toString() é chamado automaticamente.
+
+### 🛑 Importância
+- **Representação Legível:** Permite que você forneça uma representação legível e informativa do objeto, facilitando a depuração e a compreensão do estado do objeto.
+- **Personalização:** Você pode sobrescrever o método para personalizar a saída de acordo com os atributos do objeto.
+- **Facilita a Depuração:** Ao imprimir objetos, você pode obter informações úteis sobre seus atributos e estado.
+
 #### 💻 Exemplo feito em sala:
 - Classe Pessoa
 ```Java

@@ -106,11 +106,11 @@ public class Cachorro extends Animais{
 - Facilita a expansão e manutenção do código.
 - Permite que métodos sejam escritos de forma mais genérica, aumentando a flexibilidade.
 
-#### Polimorfismo em Tempo de Compilação (Sobrecarga):
+### - Polimorfismo em Tempo de Compilação (Sobrecarga):
 
 Proxima aula.
 
-#### Polimorfismo em Tempo de Execução (Sobrescrita):
+### - Polimorfismo em Tempo de Execução (Sobrescrita):
 
 Ocorre quando um método da subclasse substitui um método da superclasse.
 

@@ -15,7 +15,7 @@
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 5 - Estrutura de Classes e Instanciação de Objetos - Herança e Polimorfismo](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula05.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 6 - Herança: Generalização e Especialização](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula06.md)
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 6 - Estrutura de Classes e Instanciação de Objetos - Continuação Polimorfismo e Classes Abstratas](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula06.md)
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 7 - Herança: Generalização e Especialização
 

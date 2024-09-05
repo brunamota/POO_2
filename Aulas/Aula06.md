@@ -64,8 +64,10 @@ public class Principal {
 
 ## Classes Abstratas
 
-É uma classe que não pode ser instanciada diretamente. Ela pode conter métodos abstratos (sem implementação) e métodos concretos (com implementação).
+- É uma classe que não pode ser instanciada diretamente. Ela pode conter métodos abstratos (sem implementação) e métodos concretos (com implementação).
 Fornece uma base para outras classes que herdam dela, definindo um conjunto de métodos que as subclasses devem implementar.
+- Permitem a criação de uma estrutura comum para um grupo de classes relacionadas, garantindo que certas funcionalidades sejam implementadas.
+- São extremamente úteis em design de software, especialmente em padrões de projeto, onde a flexibilidade e a reutilização de código são essenciais.
 
 ### Características das Classes Abstratas
 - Não Instanciáveis: Você não pode criar uma instância de uma classe abstrata. Isso significa que você não pode usar a palavra-chave new para criar um objeto dessa classe.

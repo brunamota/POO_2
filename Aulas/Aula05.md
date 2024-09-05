@@ -141,11 +141,11 @@ public class Principal {
 
 ## 🧐 Análise do Código
 
-- Classe Animal:
+- Classe Animais:
     - Tem um atributo nome e um construtor que inicializa esse atributo.
     - O método fazerSom() imprime uma mensagem genérica.
 - Classe Gato:
-    - Herda de Animal.
+    - Herda de Animais.
     - Seu construtor chama super(nomeCachorro, raca, nomeDono), que invoca o construtor da superclasse Animal para inicializar o atributo nomeCachorro, raca e nomeDono.
     - O método fazerSom() é sobrescrito para fornecer uma implementação específica para Gato.
 - Classe Main:

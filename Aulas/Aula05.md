@@ -1,8 +1,107 @@
 # Aula 5 - Estrutura de Classes e Instanciação de Objetos - Herança e Polimorfismo
 
+## 👨‍👩‍👧 Herança
+
+- É um mecanismo que permite que uma classe (subclasse) herde atributos e métodos de outra classe (superclasse).
+- Facilita a reutilização de código e a criação de hierarquias de classes.
+- Como exemplo, vamos criar a Superclasse/Classe Mãe Animais:
+
+``` Java
+package animais;
+
+public class Animais {
+    
+    protected String nomeAnimal;
+    protected String raca;
+    protected String nomeDono;
+
+    public Animais(String nomeAnimal, String raca, String nomeDono) {
+        this.nomeAnimal = nomeAnimal;
+        this.raca = raca;
+        this.nomeDono = nomeDono;
+    }
+
+    public String getNomeAnimal() {
+        return nomeAnimal;
+    }
+
+    public String getRaca() {
+        return raca;
+    }
+
+    public String getNomeDono() {
+        return nomeDono;
+    }
+
+
+    public void setNomeAnimal(String nomeAnimal) {
+        this.nomeAnimal = nomeAnimal;
+    }
+
+    public void setRaca(String raca) {
+        this.raca = raca;
+    }
+
+    public void setNomeDono(String nomeDono) {
+        this.nomeDono = nomeDono;
+    }
+
+     // Método da classe Animal
+    public void fazerSom() {
+        System.out.println(nomeAnimal + " faz um som.");
+    }
+
+    @Override
+    public String toString() {
+        return "Animais{" + "nomeAnimal=" + nomeAnimal +
+                "\nRaca=" + raca +
+                "\nnomeDono=" + nomeDono + '}';
+    }
+    
+}
+
+```
+- Então, criamos a subclasse Cachorro que herdará as caracteristicas de animais
+- A palavra-chave extends é utilizada para definir uma subclasse.
+
+``` Java
+public class Cachorro extends Animais{
+      
+}
+```
+
+- A subclasse herda todos os métodos e atributos da superclasse, exceto os membros privados, utilizamos a palavra chave super para que isso aconteça.
+- Uma subclasse pode ter seus próprios métodos e atributos adicionais.
+- É possível sobrescrever métodos da superclasse para fornecer implementações específicas.
+
+```
+public class Cachorro extends Animais{
+    
+    private int idadeCachorro;
+
+    public Cachorro(String nomeAnimal, String raca, String nomeDono, int idadeCachorro) {
+        super(nomeAnimal, raca, nomeDono);
+        this.idadeCachorro = idadeCachorro;
+    }
+
+    public int getIdadeCachorro() {
+        return idadeCachorro;
+    }
+
+    public void setIdadeCachorro(int idadeCachorro) {
+        this.idadeCachorro = idadeCachorro;
+    }
+
+    public void fazerSom(){
+            System.out.println("O cachorro late.");
+        }
+  
+}
+```
+
 ## 👥 Polimorfismo 
 
 - É a capacidade de um objeto assumir diferentes formas. Em termos de orientação a objetos, isso geralmente se refere à habilidade de métodos com o mesmo nome se comportarem de maneira diferente, dependendo do objeto que os invoca.
 - Permite que métodos com o mesmo nome se comportem de maneiras diferentes, dependendo do objeto que os invoca. Isso promove flexibilidade e reutilização de código.
 
-## 👨‍👩‍👧 Herança
+

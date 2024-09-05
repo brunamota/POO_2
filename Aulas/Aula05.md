@@ -4,6 +4,13 @@
 
 - É um mecanismo que permite que uma classe (subclasse) herde atributos e métodos de outra classe (superclasse).
 - Facilita a reutilização de código e a criação de hierarquias de classes.
+- A palavra-chave extends é utilizada para definir uma subclasse.
+
+``` Java
+public class Cachorro extends Animais{
+      
+}
+```
 - Como exemplo, vamos criar a Superclasse/Classe Mãe Animais:
 
 ``` Java
@@ -62,14 +69,6 @@ public class Animais {
 
 ```
 - Então, criamos a subclasse Cachorro que herdará as caracteristicas de animais
-- A palavra-chave extends é utilizada para definir uma subclasse.
-
-``` Java
-public class Cachorro extends Animais{
-      
-}
-```
-
 - A subclasse herda todos os métodos e atributos da superclasse, exceto os membros privados, utilizamos a palavra chave super para que isso aconteça.
 - Uma subclasse pode ter seus próprios métodos e atributos adicionais.
 - É possível sobrescrever métodos da superclasse para fornecer implementações específicas.

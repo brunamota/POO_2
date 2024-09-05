@@ -2,7 +2,9 @@
 
 ## Continuação Polimorfismo
 
-Polimorfismo em Tempo de Compilação (Sobrecarga): Ocorre quando dois ou mais métodos têm o mesmo nome, mas diferentes parâmetros.
+### Polimorfismo em Tempo de Compilação (Sobrecarga):
+
+Ocorre quando dois ou mais métodos têm o mesmo nome, mas diferentes parâmetros.
 
 #### Classe Mensagem
 ``` Java
@@ -61,3 +63,25 @@ public class Principal {
   - Faz chamadas para os métodos exibir com diferentes tipos de argumentos, demonstrando a flexibilidade da sobrecarga de métodos.
 
 ## Classes Abstratas
+
+É uma classe que não pode ser instanciada diretamente. Ela pode conter métodos abstratos (sem implementação) e métodos concretos (com implementação).
+Fornece uma base para outras classes que herdam dela, definindo um conjunto de métodos que as subclasses devem implementar.
+
+### Características das Classes Abstratas
+- Não Instanciáveis: Você não pode criar uma instância de uma classe abstrata. Isso significa que você não pode usar a palavra-chave new para criar um objeto dessa classe.
+- Métodos Abstratos: Uma classe abstrata pode ter métodos abstratos, que são declarações de métodos sem corpo. As subclasses devem implementar esses métodos.
+- Métodos Concretos: Além dos métodos abstratos, uma classe abstrata também pode ter métodos com implementação.
+- Palavra-chave abstract: Para declarar uma classe ou um método como abstrato, usamos a palavra-chave abstract.
+
+```Java
+abstract class NomeDaClasse {
+    // Atributos
+    // Métodos concretos
+    void metodoConcreto() {
+        System.out.println("Este é um método concreto.");
+    }
+
+    // Método abstrato
+    abstract void metodoAbstrato();
+}
+```

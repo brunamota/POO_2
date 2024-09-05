@@ -149,7 +149,7 @@ public class Principal {
     - O método fazerSom() imprime uma mensagem genérica.
 - Classe Gato:
     - Herda de Animais.
-    - Seu construtor chama super(nomeCachorro, raca, nomeDono), que invoca o construtor da superclasse Animal para inicializar o atributo nomeCachorro, raca e nomeDono.
+    - Seu construtor chama super(nomeCachorro, raca, nomeDono), que invoca o construtor da superclasse
     - O método fazerSom() é sobrescrito para fornecer uma implementação específica para Gato.
 - Classe Main:
     - Cria uma instância de Gato e chama o método fazerSom(), que resulta na saída "Margô mia."

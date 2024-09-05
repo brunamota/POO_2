@@ -106,6 +106,9 @@ public class Cachorro extends Animais{
 - Facilita a expansão e manutenção do código.
 - Permite que métodos sejam escritos de forma mais genérica, aumentando a flexibilidade.
 
+- Polimorfismo em Tempo de Compilação (Sobrecarga): Ocorre quando dois ou mais métodos têm o mesmo nome, mas diferentes parâmetros.
+    - Proxima aula.
+
 - Polimorfismo em Tempo de Execução (Sobrescrita): Ocorre quando um método da subclasse substitui um método da superclasse.
 
 ```Java
@@ -147,6 +150,3 @@ public class Principal {
     - O método fazerSom() é sobrescrito para fornecer uma implementação específica para Gato.
 - Classe Main:
     - Cria uma instância de Gato e chama o método fazerSom(), que resulta na saída "Margô mia."
-
-- Polimorfismo em Tempo de Compilação (Sobrecarga): Ocorre quando dois ou mais métodos têm o mesmo nome, mas diferentes parâmetros.
-    - Proxima aula.

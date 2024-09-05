@@ -87,3 +87,11 @@ abstract class NomeDaClasse {
     abstract void metodoAbstrato();
 }
 ```
+### Análise do Código
+- Classe Veiculo:
+    - É uma classe abstrata com atributos modelo e ano.
+    - Possui um método concreto exibirInfo() e um método abstrato calcularConsumo(double distancia).
+- Classes Carro e Moto:
+    - Ambas herdam de Veiculo e implementam o método calcularConsumo() para calcular o consumo de combustível baseado na distância.
+- Classe Main:
+    - Cria uma lista de veículos, adiciona instâncias de Carro e Moto, e exibe as informações e o consumo para uma distância específica.

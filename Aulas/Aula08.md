@@ -90,3 +90,24 @@ class Carro {
     }
 }
 ```
+
+#### Classe Principal
+```Java
+public class Main {
+    public static void main(String[] args) {
+        // Demonstração de Associação
+        Aluno aluno = new Aluno("João");
+        Professor professor = new Professor("Maria");
+        professor.ensinar(aluno);
+
+        // Demonstração de Agregação
+        Departamento departamento = new Departamento("Ciências");
+        departamento.adicionarProfessor(professor);
+        departamento.listarProfessores();
+
+        // Demonstração de Composição
+        Carro carro = new Carro("V8");
+        carro.exibirInfo();
+    }
+}
+```

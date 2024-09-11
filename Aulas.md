@@ -17,9 +17,9 @@
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 6 - Estrutura de Classes e Instanciação de Objetos - Continuação Polimorfismo e Classes Abstratas](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula06.md)
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 7 - Herança: Generalização e Especialização
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 7 - Relacionamentos entre classes: Generalização e Especialização]((https://github.com/brunamota/POO_2/blob/main/Aulas/Aula07.md))
 
-![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) Aula 8 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos
+![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 8 - Relacionamentos entre classes: composição, agregação e associação. Atribuição entre objetos, comparação de objetos]((https://github.com/brunamota/POO_2/blob/main/Aulas/Aula08.md))
 
 ![iconGitBrasao](https://github.com/user-attachments/assets/bb2a1451-7913-45a2-af04-19b92056d76f) [Aula 9 - Interfaces Gráficas de gerenciamento de dados](https://github.com/brunamota/POO_2/blob/main/Aulas/Aula09.md)
 

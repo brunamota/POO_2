@@ -6,29 +6,7 @@
 - Exemplo: A implementação é direta e mostra como as classes interagem. O professor não é parte da sala e vice-versa, mas eles têm um relacionamento onde o professor pode lecionar na sala.
 
 ```Java
-class Aluno {
-    private String nome;
 
-    public Aluno(String nome) {
-        this.nome = nome;
-    }
-
-    public String getNome() {
-        return nome;
-    }
-}
-
-class Professor {
-    private String nome;
-
-    public Professor(String nome) {
-        this.nome = nome;
-    }
-
-    public void ensinar(Aluno aluno) {
-        System.out.println(nome + " está ensinando " + aluno.getNome());
-    }
-}
 
 ```
 
@@ -37,13 +15,16 @@ class Professor {
 - Exemplo: A classe Instituicao contém uma lista de Professor, mas os professores podem existir independentemente da instituição. Isso caracteriza uma relação de agregação. O Instituicao pode ter zero ou mais professores, e a mesma instância de Professor pode ser adicionada a várias instituições, se necessário.
   
 ```Java
+
+package relacionamentoclasses;
+
 import java.util.ArrayList;
 
-class Departamento {
+class Instituicao{
     private String nome;
     private ArrayList<Professor> professores;
 
-    public Departamento(String nome) {
+    public Instituicao(String nome) {
         this.nome = nome;
         this.professores = new ArrayList<>();
     }
@@ -53,12 +34,13 @@ class Departamento {
     }
 
     public void listarProfessores() {
-        System.out.println("Professores do departamento " + nome + ":");
+        System.out.println("Professores da " + nome + ":");
         for (Professor professor : professores) {
-            System.out.println(professor.getNome());
+            System.out.println("- " + professor.getNome());
         }
     }
 }
+
 ```
 
 ### Composição

@@ -3,7 +3,6 @@
 Conceitos que descrevem como classes podem ser organizadas em uma hierarquia, onde uma classe mais genérica (superclasse) é estendida por classes mais específicas (subclasses).
 
 ## :ocean: Generalização
-Definição:
 Generalização é o processo de identificar características comuns entre várias classes e criar uma superclasse que encapsule essas características.
 Permite a reutilização de código e a simplificação da estrutura do programa.
 

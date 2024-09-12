@@ -116,21 +116,22 @@ class Carro {
 
 #### Classe Principal
 ```Java
-public class Main {
+public class Principal {
     public static void main(String[] args) {
         // Demonstração de Associação
-        Aluno aluno = new Aluno("João");
-        Professor professor = new Professor("Maria");
-        professor.ensinar(aluno);
+        SalaDeAula sala101 = new SalaDeAula("101", 30);
+        Professor professor1 = new Professor("João");
+        professor1.ensinar(sala101); 
 
         // Demonstração de Agregação
-        Departamento departamento = new Departamento("Ciências");
-        departamento.adicionarProfessor(professor);
-        departamento.listarProfessores();
+        Instituicao instituicao = new Instituicao("Escola Superior de Tecnologia");
+        instituicao.adicionarProfessor(professor1);
+        instituicao.listarProfessores();
 
         // Demonstração de Composição
         Carro carro = new Carro("V8");
         carro.exibirInfo();
+        
     }
 }
 ```

@@ -3,7 +3,7 @@
 ### Associação
 É um relacionamento onde uma classe usa outra classe. É uma relação "usa um" (ou "tem um"). Pode ser unidirecional (uma classe conhece a outra) ou bidirecional (ambas as classes se conhecem).
 
-- Exemplo: Imagine uma classe Professor que tem um relacionamento com a classe Aluno.
+- Exemplo: A implementação é direta e mostra como as classes interagem. O professor não é parte da sala e vice-versa, mas eles têm um relacionamento onde o professor pode lecionar na sala.
 
 ```Java
 class Aluno {

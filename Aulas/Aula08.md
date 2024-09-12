@@ -34,7 +34,7 @@ class Professor {
 
 ### Agregação
 - A agregação é um tipo de associação onde uma classe contém referências a outras classes, mas essas classes podem existir independentemente da classe que as contém. É uma relação "tem um" onde as partes podem viver sem o todo.
-- Exemplo: Considere uma classe Departamento que agrega a classe Professor.
+- Exemplo: A classe Instituicao contém uma lista de Professor, mas os professores podem existir independentemente da instituição. Isso caracteriza uma relação de agregação. O Instituicao pode ter zero ou mais professores, e a mesma instância de Professor pode ser adicionada a várias instituições, se necessário.
   
 ```Java
 import java.util.ArrayList;

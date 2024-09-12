@@ -7,6 +7,47 @@
 
 ```Java
 
+package relacionamentoclasses;
+
+
+class SalaDeAula {
+    private String numero;
+    private int capacidade;
+
+    public SalaDeAula(String numero, int capacidade) {
+        this.numero = numero;
+        this.capacidade = capacidade;
+    }
+
+    public String getNumero() {
+        return numero;
+    }
+
+    public int getCapacidade() {
+        return capacidade;
+    }
+
+    @Override
+    public String toString() {
+        return "Sala " + numero + " (Capacidade: " + capacidade + ")";
+    }
+}
+
+class Professor {
+    private String nome;
+
+    public Professor(String nome) {
+        this.nome = nome;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void ensinar(SalaDeAula sala) {
+        System.out.println(nome + " está lecionando na " + sala);
+    }
+}
 
 ```
 

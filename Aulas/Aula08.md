@@ -1,6 +1,6 @@
 # Aula 8 - Relacionamentos entre Classes: Composição, Agregação e Associação
 
-### Associação
+### 🧑🏻‍🏫 Associação
 É um relacionamento onde uma classe usa outra classe. É uma relação "usa um" (ou "tem um"). Pode ser unidirecional (uma classe conhece a outra) ou bidirecional (ambas as classes se conhecem).
 
 - Exemplo: A implementação é direta e mostra como as classes interagem. O professor não é parte da sala e vice-versa, mas eles têm um relacionamento onde o professor pode lecionar na sala.
@@ -51,7 +51,7 @@ class Professor {
 
 ```
 
-### Agregação
+### ⛓️ Agregação
 - A agregação é um tipo de associação onde uma classe contém referências a outras classes, mas essas classes podem existir independentemente da classe que as contém. É uma relação "tem um" onde as partes podem viver sem o todo.
 - Exemplo: A classe Instituicao contém uma lista de Professor, mas os professores podem existir independentemente da instituição. Isso caracteriza uma relação de agregação. O Instituicao pode ter zero ou mais professores, e a mesma instância de Professor pode ser adicionada a várias instituições, se necessário.
   
@@ -84,7 +84,7 @@ class Instituicao{
 
 ```
 
-### Composição
+### 🔗 Composição
 - A composição é um tipo de agregação mais forte, onde a classe contida não pode existir sem a classe que a contém. É uma relação "parte de" (ou "é parte de").
 - Exemplo: Considere uma classe Carro que possui uma classe Motor. O motor não faz sentido fora do carro.
 

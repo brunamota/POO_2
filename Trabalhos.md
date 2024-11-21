@@ -9,6 +9,5 @@
 
 ![iconGitJoia](https://github.com/user-attachments/assets/5d26f355-6c6f-4da4-a9b0-260d5f507404) [Trabalho 2 - Biblioteca](https://github.com/user-attachments/files/16894246/Trabalho.2.-.Biblioteca.pdf)
 
-![iconGitJoia](https://github.com/user-attachments/assets/5d26f355-6c6f-4da4-a9b0-260d5f507404) Trabalho 3
+![iconGitJoia](https://github.com/user-attachments/assets/5d26f355-6c6f-4da4-a9b0-260d5f507404) [Trabalho 3 - Padrões de Projeto](https://github.com/user-attachments/files/16045775/Trabalho.4.-.POO.pdf)
 
-![iconGitJoia](https://github.com/user-attachments/assets/5d26f355-6c6f-4da4-a9b0-260d5f507404) Trabalho 4
